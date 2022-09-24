@@ -1,0 +1,23 @@
+.main-div{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.content-box{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.light-blue-box{
+    background-color: powderblue;
+}
+
+.white-box{
+    background-color: white;
+}
+
+img{
+    max-width: 30%;
+}
